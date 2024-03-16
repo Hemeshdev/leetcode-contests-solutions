@@ -12,3 +12,5 @@ public:
         return mp.begin()->first;
     }
 };
+
+//we can also do this by bit manipulation and also by sum of all t chars into number - sum of all s chars into nums
