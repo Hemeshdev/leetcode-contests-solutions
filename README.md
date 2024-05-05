@@ -2,4 +2,4 @@
 
 ## Contest based seperated solutions
 
-contests completed : 6
+contests completed : 9
